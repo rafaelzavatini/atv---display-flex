@@ -1,0 +1,12 @@
+.azul{
+    background-color: blue;
+    padding: 100px;
+}
+.amarela{
+    background-color: yellow;
+    padding: 100px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
