@@ -1,0 +1,27 @@
+body {
+    background-color: dodgerblue;
+}
+
+.centralizar {
+    max-width: 660px;
+    margin: 0 auto;
+}
+
+.amarela {
+    background-color: yellow;
+    padding: 100px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.esticar {
+    padding-right: 320px;
+}
+
+.alongar {
+    padding-top: 300px;
+}
+
+.flex {
+    display: flex;
+}
