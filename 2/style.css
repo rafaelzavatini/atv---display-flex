@@ -1,0 +1,12 @@
+.roxo{
+    background-color: rgb(59, 2, 61);
+    padding: 100px;
+}
+.azul{
+    background-color: rgb(2, 8, 121);
+    padding: 100px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
